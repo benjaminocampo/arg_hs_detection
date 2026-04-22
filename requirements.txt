@@ -1,0 +1,12 @@
+pandas
+torch
+transformers
+numpy
+mlflow
+hydra-core
+vllm
+python-dotenv
+scipy
+krippendorff
+seaborn
+xgboost
